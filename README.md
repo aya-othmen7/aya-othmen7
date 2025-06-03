@@ -10,7 +10,7 @@ Explore my GitHub for projects from summer internships, academic work, and perso
 [More on Aya's Engineering Journey](#)
 
 ## Languages and Tools
-![Java] ![JavaScript] ![Python] ![C++] ![React] ![Node.js] ![MongoDB] ![PostgreSQL] ![Spring Boot] ![PHP] ![MySQL]  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript] ![Python] ![C++] ![React] ![Node.js] ![MongoDB] ![PostgreSQL] ![Spring Boot] ![PHP] ![MySQL]  
 ![HTML] ![CSS] ![Arduino] ![LabVIEW] ![RSLogix500] ![GRAFCET]  
 
 ## My Projects
@@ -22,6 +22,11 @@ Explore my GitHub for projects from summer internships, academic work, and perso
 - [Cargo Management Graphic Interface](link) - Created using Java.
 - [Temperature Control System Simulation](link) - Simulated with Proteus and MPLAB X IDE.
 
+## Languages
+- Arabic: Native speaker
+- French: B2
+- English: B2
+- 
 ## Achievements
 - Certificates in web development and industrial automation.
 - Organized and participated in IEEE events (TSYP 12, PESTGM 5.0).
