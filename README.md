@@ -11,6 +11,9 @@ Explore my GitHub for projects from summer internships, academic work, and perso
 [More on Aya's Engineering Journey](#)
 
 ## Languages and Tools
+
+<p>
+  <br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -28,7 +31,7 @@ Explore my GitHub for projects from summer internships, academic work, and perso
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FB9A00?style=for-the-badge&logo=labview&logoColor=white)  
 ![RSLogix500](https://img.shields.io/badge/RSLogix500-00A1E4?style=for-the-badge&logo=rockwellautomation&logoColor=white)  
 ![GRAFCET](https://img.shields.io/badge/GRAFCET-000000?style=for-the-badge&logo=placeholder&logoColor=white)  <!-- Placeholder, adjust if available -->
-
+</p>
 ## My Projects
 - Product Management Interface with Spring Boot - A web-based product management system using Spring Boot and MySQL.
 - Excel File Transfer and Processing - Utilized LabVIEW and Google Drive for file manipulation.
