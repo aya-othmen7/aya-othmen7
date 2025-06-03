@@ -6,7 +6,7 @@
 ## About Me
 I am a passionate and autonomous Industrial Computer Engineering student at ENET’COM, specializing in web development and industrial automation. I work on diverse web projects, leveraging my skills to optimize processes and drive innovation. Currently, I’m seeking an end-of-studies internship to further enhance my expertise.
 
-Explore my GitHub for projects from summer internships, academic work, and personal initiatives. Feel free to connect with me via my ![LinkedIn](https://www.linkedin.com/in/aya-othmen) profile.
+Explore my GitHub for projects from summer internships, academic work, and personal initiatives. Feel free to connect with me via my [LinkedIn](https://www.linkedin.com/in/aya-othmen) profile.
 
 [More on Aya's Engineering Journey](#)
 
