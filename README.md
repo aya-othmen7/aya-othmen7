@@ -1,7 +1,7 @@
 <img src="ayas-banner.png" alt="Aya Banner" width="100%">
 
-# Hi, I am Aya Othmen  
-## Software Engineer | Web Development  
+# 👩‍💻  Aya Othmen  
+**`Software Engineer | Web Development`**
 @aya-othmen7  
 
 ## About Me
