@@ -1,7 +1,6 @@
-# Hi, I am Aya Othmen  
+<img src="ayas-banner.png" alt="Aya Banner" width="100%"># Hi, I am Aya Othmen  
 ## Software Engineer | Web Development  
 @aya-othmen7  
-![Aya Othmen](ayas-banner.png)
 
 ## About Me
 I am a passionate and autonomous Industrial Computer Engineering student at ENET’COM, specializing in web development and industrial automation. I work on diverse web projects, leveraging my skills to optimize processes and drive innovation. Currently, I’m seeking an end-of-studies internship to further enhance my expertise.
